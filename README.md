@@ -8,15 +8,16 @@ The Entity Framework NuGet packages Microsoft.EntityFrameworkCore.SqlServer and 
 <br>
 
 <h2>Features</h2>
-Create: Add new records to the database.
+<h3>Create</h3>: Add new records to the database.
 <br>
-Read: Retrieve and view existing records.
+<h3>Read:</h3> Retrieve and view existing records.
 <br>
-Update: Modify and update records in the database.
+<h3>Update:</h3> Modify and update records in the database.
 <br>
-Delete: Remove records from the database.
+<h3>Delete:</h3> Remove records from the database.
 <br>
 Technologies Used
+<br>
 ASP.NET Core MVC: The web application framework.
 <br>
 Microsoft SQL Server: Database management system.
