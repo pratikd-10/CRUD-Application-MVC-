@@ -2,6 +2,7 @@
 <h2>Overview</h2>
 This repository contains a simple CRUD (Create, Read, Update, Delete) application developed using ASP.NET Core MVC.
 <br>
+<br>
 The application uses Microsoft SQL Server as the database and leverages Entity Framework for data access. 
 <br>
 The Entity Framework NuGet packages Microsoft.EntityFrameworkCore.SqlServer and Microsoft.EntityFrameworkCore.Tools are utilized for database interactions.
