@@ -1,6 +1,6 @@
 # CRUD-Application-MVC-
 <h2>Overview</h2>
-This repository contains a simple CRUD (Create, Read, Update, Delete) application developed using ASP.NET Core MVC.
+This repository contains a simple CRUD (Create, Read, Update and Delete) application developed using ASP.NET Core MVC.
 <br>
 <br>
 The application uses Microsoft SQL Server as the database and leverages Entity Framework for data access. 
